@@ -1,0 +1,459 @@
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Cinema.dll.config
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Cinema.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Cinema.pdb
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csc.exe
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csc.exe.config
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csc.rsp
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csi.exe
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csi.exe.config
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csi.rsp
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.AppContext.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Console.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Net.Http.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\vbc.exe
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\vbc.exe.config
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\vbc.rsp
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Antlr3.Runtime.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Newtonsoft.Json.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Helpers.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Mvc.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Optimization.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Razor.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\WebGrease.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Helpers.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Mvc.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Optimization.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Razor.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Newtonsoft.Json.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\Documents\Cinema\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+D:\Documents\Cinema\Cinema\Cinema\Cinema\obj\Debug\Cinema.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\Cinema.dll.config
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\Cinema.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\Cinema.pdb
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\csc.exe
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\csc.exe.config
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\csc.rsp
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\csi.exe
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\csi.exe.config
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\csi.rsp
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.AppContext.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Console.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.IO.Compression.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Net.Http.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Net.Sockets.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.ValueTuple.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XPath.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\vbc.exe
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\vbc.exe.config
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\vbc.rsp
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\Antlr3.Runtime.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\Newtonsoft.Json.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.Helpers.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.Mvc.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.Optimization.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.Razor.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.WebPages.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\WebGrease.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.Helpers.xml
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.Mvc.xml
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.Optimization.xml
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.Razor.xml
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.WebPages.xml
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\Newtonsoft.Json.xml
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\obj\Debug\Cinema.dll
+C:\Users\duong\OneDrive\Desktop\LeQuangMinh\LTTH\Cinema\Cinema\Cinema\obj\Debug\Cinema.pdb
+D:\Documents\Cinema\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\Cinema.dll.config
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\Cinema.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\Cinema.pdb
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\csc.exe
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\csc.exe.config
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\csc.rsp
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\csi.exe
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\csi.exe.config
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\csi.rsp
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Managed.Core.targets
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.AppContext.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Console.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Globalization.Calendars.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.IO.Compression.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Net.Http.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Net.Sockets.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.ValueTuple.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XmlDocument.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XPath.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\vbc.exe
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\vbc.exe.config
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\vbc.rsp
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\Antlr3.Runtime.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\Newtonsoft.Json.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.Helpers.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.Mvc.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.Optimization.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.Razor.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.WebPages.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\WebGrease.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.Helpers.xml
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.Mvc.xml
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.Optimization.xml
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.Razor.xml
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.WebPages.xml
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\Newtonsoft.Json.xml
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\obj\Debug\Cinema.dll
+E:\desktop\HKII năm 4\5. Công nghệ lập trình tích hợp\BTL\Cinema\Cinema\Cinema\obj\Debug\Cinema.pdb
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\obj\Debug\Cinema.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\obj\Debug\Cinema.pdb
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Cinema.dll.config
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Cinema.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Cinema.pdb
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csc.exe
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csc.exe.config
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csc.rsp
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csi.exe
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csi.exe.config
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\csi.rsp
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.AppContext.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Console.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Globalization.Calendars.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.IO.Compression.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Net.Http.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Net.Sockets.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.ValueTuple.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XPath.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\vbc.exe
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\vbc.exe.config
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\vbc.rsp
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Antlr3.Runtime.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Newtonsoft.Json.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Helpers.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Mvc.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Optimization.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Razor.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\WebGrease.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Helpers.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Mvc.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Optimization.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.Razor.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Newtonsoft.Json.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\RestSharp.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Buffers.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Memory.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Numerics.Vectors.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Text.Encodings.Web.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Text.Json.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Threading.Tasks.Extensions.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.ValueTuple.dll
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\RestSharp.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Buffers.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Memory.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Numerics.Vectors.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Text.Encodings.Web.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Text.Json.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Threading.Tasks.Extensions.xml
+F:\Kì 2 Năm 4\T5 Công nghệ lập trình tích hợp\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.ValueTuple.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\RestSharp.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Buffers.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Memory.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Numerics.Vectors.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Text.Encodings.Web.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Text.Json.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Threading.Tasks.Extensions.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.ValueTuple.dll
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\RestSharp.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Buffers.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Memory.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Numerics.Vectors.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Text.Encodings.Web.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Text.Json.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.Threading.Tasks.Extensions.xml
+D:\Documents\Cinema\Cinema\Cinema\Cinema\bin\System.ValueTuple.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+F:\Portfolio\Cinema-main\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+F:\Portfolio\Cinema-main\Cinema\Cinema\obj\Debug\Cinema.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\obj\Debug\Cinema.pdb
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Cinema.dll.config
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Cinema.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Cinema.pdb
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\csc.exe
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\csc.exe.config
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\csc.rsp
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\csi.exe
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\csi.exe.config
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\csi.rsp
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.AppContext.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Collections.Immutable.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Console.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Globalization.Calendars.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.IO.Compression.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Net.Http.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Net.Sockets.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Reflection.Metadata.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.ValueTuple.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Xml.XPath.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\vbc.exe
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\vbc.exe.config
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\vbc.rsp
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\roslyn\VBCSCompiler.exe.config
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Antlr3.Runtime.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\EntityFramework.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\EntityFramework.SqlServer.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Microsoft.Web.Infrastructure.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Newtonsoft.Json.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\RestSharp.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Buffers.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Memory.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Numerics.Vectors.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Text.Encodings.Web.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Text.Json.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Threading.Tasks.Extensions.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.ValueTuple.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.Helpers.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.Mvc.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.Optimization.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.Razor.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.WebPages.Deployment.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.WebPages.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.WebPages.Razor.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\WebGrease.dll
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\EntityFramework.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\EntityFramework.SqlServer.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\RestSharp.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Buffers.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Memory.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Numerics.Vectors.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Text.Encodings.Web.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Text.Json.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Threading.Tasks.Extensions.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.ValueTuple.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.Helpers.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.Mvc.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.Optimization.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.Razor.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.WebPages.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.WebPages.Deployment.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\System.Web.WebPages.Razor.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Newtonsoft.Json.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Antlr3.Runtime.pdb
+F:\Portfolio\Cinema-main\Cinema\Cinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Portfolio\Cinema-main\Cinema\Cinema\obj\Debug\Cinema.csproj.CopyComplete

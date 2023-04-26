@@ -1,0 +1,79 @@
+﻿
+
+@{
+    //ViewBag.Title = "OREGON Cinema | Thông tin phim";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .movie-details-container {
+        width: 70%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        padding: 30px 0 0 0 !important;
+        text-align: left;
+    }
+
+    .movie-title p {
+        margin: 5px 0;
+        font-size: 18px !important;
+    }
+</style>
+<div class="film-profile" id="profile">
+    <div class="details-container text-center">
+        <div class="movie-details-container ">
+            <div class="Khung col-9">
+                <h5>THÔNG TIN PHIM</h5>
+                <div class="content-title-line mb-5"></div>
+                <div class="movie-details-title">
+                    <div class="movie-poster">
+                        <img src="~/images/movie/poster/@ViewBag.detail.PosterLink" class="poster">
+                    </div>
+                    <div class="movie-details ml-3">
+                        <h1>@ViewBag.detail.MovieName</h1>
+                        <p><span>Đánh giá: </span><strong>@ViewBag.detail.IMDb/10</strong></p>
+                        <p><span>Thời lượng: </span><strong>@ViewBag.detail.MovieLength phút</strong></p>
+                        <p><span>Đạo diễn: </span><strong>@ViewBag.detail.Director</strong></p>
+                        <p><span>Thể loại: </span><strong>@ViewBag.detail.Category</strong></p>
+                        <p><span>Quốc gia: </span><strong>@ViewBag.detail.Nation</strong></p>
+                        <p><span>Nhà sản xuất: </span><strong>Warner Bros</strong></p>
+                        <p><span>Diễn viên: </span><strong>@ViewBag.detail.Actor</strong></p>
+                        @if (@ViewBag.detail.MovieStatus == 2)
+                        {
+                            <a class="btn btn-block btn-base-color" href="/Booking/Booking?name=@ViewBag.detail.MovieName&location=all"><i class="fa fa-film" aria-hidden="true"></i> ĐẶT VÉ</a>
+                        }
+                    </div>
+                </div>
+                <div class="contentfilm">
+                    <h3>NỘI DUNG PHIM</h3>
+                    <hr>
+                    <p style="width: 90%;">@ViewBag.detail.MovieDescription</p>
+
+                    <div class="trailer">
+                        <div class="embed-container">
+                            <iframe src="@ViewBag.detail.TrailerLink" frameborder="0"
+                                    allowfullscreen>
+                            </iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <h5>PHIM ĐANG CHIẾU</h5>
+                <div class="content-title-line mb-5"></div>
+                @foreach (var item in ViewBag.curMovie)
+                {
+                    <div class="movie-item">
+                        <a href="/Movie/Details?id=@item.MovieID">
+                            <img src="~/images/movie/poster/@item.PosterLink">
+                            <div class="movie-title">
+                                <p>@item.MovieName</p>
+                            </div>
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
